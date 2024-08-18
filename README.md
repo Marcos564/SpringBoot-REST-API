@@ -9,7 +9,7 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
    `CREATE database vehicle_api`
 
 <br> 3. Change postgres username and password:
-     <br><br>-open the file "application.properties" in `src/main/resources` <br>
+     <br><br> -open the file "application.properties" in `src/main/resources` <br>
      -edit `spring.datasource.username` and `spring.datasource.password` with your credentials
 
 4. Run the application.
