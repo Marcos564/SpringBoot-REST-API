@@ -1,7 +1,7 @@
 # SpringBoot-REST-API
 Simple REST API using Springboot, Spring JPA
 
-##Setup:
+## Setup:
 1. Clone the repository
 2. Create Postgres database
 
