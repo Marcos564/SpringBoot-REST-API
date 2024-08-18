@@ -1,5 +1,5 @@
 # SpringBoot-REST-API
-Simple REST API using Springboot, Spring JPA
+Simple REST API using Springboot, Spring JPA, PostgreSQLand Hibernate
 
 ## Setup:
 1. Clone the repository <br>
@@ -10,4 +10,4 @@ Simple REST API using Springboot, Spring JPA
     - open the file "application.properties" in `src/main/resources` <br>
     - edit `spring.datasource.username` and `spring.datasource.password` 
 
-*ASASA
+* ASASA
