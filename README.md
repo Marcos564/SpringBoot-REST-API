@@ -13,12 +13,12 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
    - edit `spring.datasource.username` and `spring.datasource.password` with your credentials
 
 4. Run the application.
-   The application will start running at http://localhost:8080/api/all 
+   The application will start running at http://localhost:8080 
 
 ## EndPoints
 
-| Method    | URL |  Response|
-| -------- | ------- |-------|
-| GET      |     | A list of all the vehicles on the database |
-| February | $80     | asd |
-| March    | $420    | asda |
+| Method    | URL     |  Response|
+| -------- | -------- |-------|
+| GET      | /api/all | A list of all the vehicles on the database |
+| POST     | $80      | Add some new vehicle to the database |
+| March    | $420     | asda |
