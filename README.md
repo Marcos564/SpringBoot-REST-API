@@ -1,5 +1,5 @@
 # SpringBoot-REST-API
-Simple REST API using Springboot, Spring JPA, PostgreSQLand Hibernate
+Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
 
 ## Setup:
 1. Clone the repository <br>
@@ -9,8 +9,8 @@ Simple REST API using Springboot, Spring JPA, PostgreSQLand Hibernate
    `CREATE database vehicle_api`
 
 <br> 3. Change postgres username and password:
-     <br><br>* open the file "application.properties" in `src/main/resources` <br>
-     * edit `spring.datasource.username` and `spring.datasource.password`.
+     <br><br>- open the file "application.properties" in `src/main/resources` <br>
+     - edit `spring.datasource.username` and `spring.datasource.password` with your credentials
 
 4. Run the application.
    The application will start running at http://localhost:8080/api/all 
