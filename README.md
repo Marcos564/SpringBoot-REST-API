@@ -5,7 +5,7 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
 1. Clone the repository <br>
    `git clone https://github.com/Marcos564/SpringBoot-REST-API`
 
-<br> 2. Create Postgres database
+<br>2. Create Postgres database
    `CREATE database vehicle_api`
 
 <br> 3. Change postgres username and password:
