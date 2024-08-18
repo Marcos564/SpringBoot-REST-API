@@ -19,6 +19,6 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
 
 | Method    | URL |  Response|
 | -------- | ------- |-------|
-| January  | $250    | null |
+| GET      |     | A list of all the vehicles on the database |
 | February | $80     | asd |
 | March    | $420    | asda |
