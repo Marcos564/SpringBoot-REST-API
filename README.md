@@ -15,4 +15,10 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
 4. Run the application.
    The application will start running at http://localhost:8080/api/all 
 
-* ASASA
+## Methods
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
