@@ -21,4 +21,5 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
 | -------- | -------- |-------|
 | GET      | /api/all | A list of all the vehicles on the database |
 | POST     | $80      | Add some new vehicle to the database |
-| March    | $420     | asda |
+| PUT    | $420     | Modified a specific vehicle |
+| DELETE |          | Delete a specific vehicle from the database    |
