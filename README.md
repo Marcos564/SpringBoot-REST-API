@@ -20,6 +20,6 @@ Simple REST API using Springboot, Spring JPA, PostgreSQL and Hibernate
 | Method    | URL     |  Response|
 | -------- | -------- |-------|
 | GET      | /api/all | A list of all the vehicles on the database |
-| POST     |       | Add some new vehicle to the database |
-| PUT    |  /api/all/update/{id}?{atribute}={value}    | Modified a specific vehicle |
+| POST     | /api/all   | Add some new vehicle to the database |
+| PUT    | /api/all/update/{id}?{atribute}={value} | Modified a specific atribute of a vehicle |
 | DELETE | /api/all/{id}       | Delete a specific vehicle from the database    |
